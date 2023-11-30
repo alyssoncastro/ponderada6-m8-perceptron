@@ -1,0 +1,1 @@
+# ponderada6-m8-perceptron
